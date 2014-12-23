@@ -1,0 +1,17 @@
+body
+{
+background-image:url('t3.jpg');
+background-attachment:fixed;
+background-size: cover;
+font-family: Harrington;
+padding: 20px;
+}
+
+table.main
+{
+background-image:url('back.jpg');
+background-attachment:fixed;
+background-size: cover;
+font-family: Harrington;
+}
+

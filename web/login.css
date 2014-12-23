@@ -1,0 +1,9 @@
+body
+{
+background-image:url('karjon.jpg');
+background-attachment:fixed;
+background-size: cover;
+padding: 70px;
+padding-top: 150px;
+font-family: Lucida Handwriting;
+}

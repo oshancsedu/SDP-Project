@@ -1,0 +1,16 @@
+body
+{
+background-image:url('ad1.jpg');
+background-attachment:fixed;
+background-size: cover;
+font-family: Harrington;
+}
+
+table.main
+{
+background-image:url('back.jpg');
+background-attachment:fixed;
+background-size: cover;
+font-family: Harrington;
+}
+
